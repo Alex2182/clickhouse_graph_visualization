@@ -1,0 +1,3 @@
+streamlit>=1.28
+streamlit-agraph>=0.2.11
+clickhouse-connect>=0.6.0
